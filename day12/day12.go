@@ -27,7 +27,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/RyanCarrier/dijkstra"
+	"github.com/RyanCarrier/dijkstra/v2"
 	log "github.com/sirupsen/logrus"
 )
 
